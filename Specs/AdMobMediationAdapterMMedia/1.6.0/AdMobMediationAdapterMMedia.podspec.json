@@ -17,6 +17,9 @@
     "ios": "6.0"
   },
   "preserve_paths": "libAdapterMillennial.a",
+  "source_files": [
+        "*.h"
+  ], 
   "dependencies": {
     "Google-Mobile-Ads-SDK": [
 
